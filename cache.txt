@@ -1,3 +1,7 @@
 addons/packages
 userdata/Thumbnails
 userdata/addon_data/script.navi-x/cache
+userdata/addon_data/plugin.video.specto/cache.db
+userdata/addon_data/plugin.video.specto/sources.db
+userdata/addon_data/plugin.video.exodus/cache.db
+userdata/Database/saltscache.db
